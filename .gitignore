@@ -4,6 +4,8 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+aws-key.tf
+rds_pass.txt
 
 # Crash log files
 crash.log
